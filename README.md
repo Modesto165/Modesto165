@@ -1,6 +1,6 @@
-## Hi there 👋
-👋 Olá! Seja bem-vindo ao meu GitHub!
-Sou um Product Owner (PO) com experiência na implementação e gestão de soluções em ERP, CRM e WMS, focado na otimização de processos e na entrega de valor para o negócio. Possuo certificação ISO 27001 e formação em Gestão da Qualidade, o que reforça minha abordagem estratégica e orientada a dados.
+
+##👋 Olá! Seja bem-vindo ao meu GitHub!
+Sou um Product Owner (PO) com experiência na implementação e gestão de soluções em ERP e CRM, focado na otimização de processos e na entrega de valor para o negócio. Minha formação é Administração, e Gestão da Qualidade, o que reforça minha abordagem estratégica e orientada a dados.
 
 🚀 Sobre mim
 🔹 Atuação em gestão de backlog, definição de roadmaps de produto e integração de sistemas.
@@ -16,8 +16,6 @@ Sou um Product Owner (PO) com experiência na implementação e gestão de solu�
 
 Aqui você encontrará projetos, documentações e ideias sobre integração de sistemas, análise de dados e automação de processos. Fique à vontade para explorar e trocar conhecimentos!
 
-📩 Vamos nos conectar?
-LinkedIn | GitHub
 
 
 <!--
